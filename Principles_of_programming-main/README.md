@@ -6,7 +6,7 @@ This repository contains a collection of C++ programs developed during my **Prin
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Snehasish321/Principles_of_programming.git
+   git clone https://github.com/mriganka-77/Principles_of_programming.git
    ```
 2. Compile the C++ files with your preferred compiler:
    ```bash

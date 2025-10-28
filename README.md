@@ -1,63 +1,41 @@
-<!-- Iron Man Themed GitHub README for Mriganka Chakraborty -->
+<!-- 💥 AVENGERS / IRON MAN THEMED README - MRIGANKA CHAKRABORTY -->
 
-<h1 align="center">🧠 Mriganka Chakraborty</h1>
-<h3 align="center">🚀 Frontend Developer | Web3 Enthusiast | Blockchain Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" alt="Iron Man Coding GIF"/>
-</p>
+<img src="https://i.imgur.com/Ft9qO8F.gif" width="250px" alt="Arc Reactor" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mriganka-77&label=🔥%20Arc%20Reactor%20Power%20Level&color=ff0000&style=for-the-badge" alt="Profile Views"/>
-</p>
+<h1 align="center">
+  ⚙️ <span style="color:#00FFFF;">Initializing Stark Protocol...</span> ⚙️
+</h1>
 
----
+<h2 align="center">
+  👋 <span style="color:#FF4C4C;">Hey, I’m</span> 
+  <span style="color:#FFD700;">Mriganka Chakraborty</span>
+</h2>
 
-## 🏆 Stark Industries Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mriganka-77&theme=radical&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
-</p>
+<h3 align="center">
+  🚀 Frontend Developer | Web3 Explorer | Blockchain Engineer  
+</h3>
 
----
-
-## ⚙️ Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,solidity,mongodb,mysql,java,git,github" />
-</p>
+</div>
 
 ---
 
-## 💼 Connect with the Stark Network
-<p align="center">
-  <a href="https://linkedin.com/in/mriganka-chakraborty-a102412a2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/_imriganka__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/_imriganka__" target="_blank">
-    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:mriganka@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  
+🛰️ *“Part Developer, Part Visionary — All Stark Tech.”*  
+
+<img src="https://media.giphy.com/media/3ohs7Y5qZikE2x1rSw/giphy.gif" width="400px" alt="Iron Man Coding"/>
+
+</div>
 
 ---
 
-## 🧩 System Diagnostics (GitHub Analytics)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mriganka-77&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mriganka-77&theme=radical&hide_border=true" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriganka-77&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🧠 About Me
+## 🧠 SYSTEM OVERVIEW
 ```bash
-> System Log: Initializing Mriganka.exe ...
-> Loading Modules: Frontend | Blockchain | Web3 | React | Solidity
-> Status: Online 🟢
+> Boot Sequence: ACTIVE
+> Identity: Mriganka Chakraborty
+> Mode: Developer / Innovator
+> Alignment: Stark Industries | Web3 Division
+> Power Core: React ⚛️ | Solidity 🔗 | JavaScript ⚙️ | AI 🤖
+> Status: Online ✅

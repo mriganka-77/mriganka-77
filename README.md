@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=FF0000&center=true&vCenter=true&width=600&lines=Hey+I'm+Mriganka+Chakraborty;Frontend+Developer+%7C+Web3+Enthusiast;Blockchain+Explorer+%7C+Tech+Innovator" alt="Typing SVG">
 </h1>
 
-<h3 align="center">🚀 Innovating the Web, One Line of Code at a Time</h3>
+<h3 align="center">🚀 Debugging like Jarvis is judging me.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="480" alt="Iron Man GIF"/>

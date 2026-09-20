@@ -12,7 +12,6 @@
 
 <!-- 3D LIVE INTERACTION HERO SHOWCASE -->
 <a href="https://portfolio-xi-wine-10ul3mgtqv.vercel.app/">
-  <img src="public/images/hero_character_3d.png" width="100%" alt="3D Portfolio Interactive Experience Preview" />
 </a>
 
 <p align="center">

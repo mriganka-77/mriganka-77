@@ -1,147 +1,240 @@
 <div align="center">
 
-# ✦ MRIGANKA CHAKRABORTY ✦
+<!-- ===================== HERO ===================== -->
 
-### 🪐 Creative Engineer & 3D Interactive Web Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00D4FF&height=220&section=header&text=Mriganka%20Chakraborty&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Enthusiast%20%7C%20Frontend%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18">
 
-<p align="center">
-  <strong>An ultra-modern, luxury 3D developer portfolio crafted with Three.js, GSAP ScrollTrigger, Lenis smooth scrolling, and bespoke typography.</strong>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Designing+Beautiful+Interfaces;Building+Interactive+Experiences;Creating+Modern+React+Applications;Turning+Ideas+Into+Digital+Products;Exploring+3D%2C+Motion+%26+AI-Powered+Experiences">
+
+<br><br>
+
+<p>
+  <a href="https://github.com/mriganka-77">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/mriganka-chakraborty-a102412a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
-<br />
+<img src="https://komarev.com/ghpvc/?username=mriganka-77&label=Profile%20Views&color=6C63FF&style=for-the-badge">
 
-<!-- 3D LIVE INTERACTION HERO SHOWCASE -->
-<a href="https://portfolio-xi-wine-10ul3mgtqv.vercel.app/">
-</a>
+<br><br>
 
-<p align="center">
-  <em>👆 Real-time 3D character with inverse kinematics head & eye cursor tracking — Click image to explore live</em>
-</p>
-
-<br />
-
-[![Live Demo](https://img.shields.io/badge/🚀%20EXPERIENCE%20LIVE%20PORTFOLIO-portfolio--xi--wine--10ul3mgtqv.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-xi-wine-10ul3mgtqv.vercel.app/)
-
-<br /><br />
-
-[![Three.js](https://img.shields.io/badge/Three.js-r174%20WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![GSAP](https://img.shields.io/badge/GSAP-ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/gsap/)
-[![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Lenis](https://img.shields.io/badge/Lenis-Smooth%20Scroll-black?style=for-the-badge)](https://lenis.darkroom.engineering/)
-[![Performance](https://img.shields.io/badge/Performance-60%2B%20FPS-10B981?style=for-the-badge&logo=speedtest&logoColor=white)](https://portfolio-xi-wine-10ul3mgtqv.vercel.app/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-
-<br /><br />
-
-[**🌐 Live Experience**](https://portfolio-xi-wine-10ul3mgtqv.vercel.app/) • [**✨ Key Features**](#-key-features) • [**💼 Featured Projects**](#-featured-projects) • [**🛠️ Tech Stack**](#-tech-stack) • [**🏆 Certifications**](#-certifications) • [**💻 Setup**](#-getting-started) • [**📬 Contact**](#-connect)
+> ### 🎨 *Designing interfaces that feel as good as they look.*
 
 </div>
 
 ---
 
-## 🌟 Overview
+<!-- ===================== ABOUT ===================== -->
 
-Inspired by avant-garde creative studios and editorial design showcases (such as [moncy.dev](https://www.moncy.dev)), this portfolio merges real-time 3D WebGL graphics, kinematic cursor tracking, interactive physics tech spheres, and pinned horizontal project showcases into an immersive, **60+ FPS** journey with zero layout shift.
+<h2>🧑‍💻 About Me</h2>
 
-🔗 **Direct Live Link**: **[https://portfolio-xi-wine-10ul3mgtqv.vercel.app/](https://portfolio-xi-wine-10ul3mgtqv.vercel.app/)**
-
----
-
-## ✨ Key Features
-
-- 👤 **Interactive 3D Avatar Scene**: Custom GLTF model with real-time inverse kinematics cursor tracking (head, eyes, and spine), ambient purple rim lighting, HDR reflections, and choreographed camera scroll transitions.
-- 🎮 **Retro Minigame Preloader**: Interactive jumping-ball platformer minigame inside the preloader header with kinetic marquee ribbon and smooth curtain wipe reveal.
-- 🪐 **3D Physics Tech Spheres**: Floating Three.js spheres textured with tech stack logos, featuring elastic collision physics and dynamic cursor repulsion forces.
-- 🛹 **Pinned Horizontal Project Showcase**: Pinned horizontal showcase driven by GSAP ScrollTrigger combined with Lenis smooth momentum scrolling.
-- ⚡ **Cyberpunk Milestone Timeline**: Glowing vertical progress guide illuminating academic achievements and industrial training.
-- 🎯 **Bespoke Typography & Magnetic Cursor**: ClashDisplay and Geist Mono typography paired with a lerp-interpolated magnetic pointer follower.
-
----
-
-## 💼 Featured Projects
-
-| Project | Focus Area | Technologies | Links |
-|:---|:---|:---|:---:|
-| **[SplitSmart](https://github.com/mriganka-77/SplitSmart)** | Collaborative Expense Sharing UX | React, TypeScript, Tailwind CSS, Supabase | [Source & Demo](https://github.com/mriganka-77/SplitSmart) |
-| **[ShopSphere](https://github.com/mriganka-77/ShopSphere)** | Liquid Glass Design System & Storefront | TypeScript, React, Tailwind CSS, Component Library | [Source & Demo](https://github.com/mriganka-77/ShopSphere) |
-| **[Visualizer](https://github.com/mriganka-77)** | Algorithm & Weather Interactive Visualizer | Next.js, React, TypeScript, SVG Animations | [Source & Demo](https://github.com/mriganka-77) |
-| **[Movie ML](https://github.com/mriganka-77)** | ML Analytics & Recommendation Dashboard | Python, Streamlit, Scikit-learn, Predictive UX | [Source & Demo](https://github.com/mriganka-77) |
-| **[BlockVerify](https://github.com/mriganka-77/BlockVerify)** | Web3 Academic Credential Verification | TypeScript, Node.js, Web3 UX, Cryptography | [Source & Demo](https://github.com/mriganka-77/BlockVerify) |
-| **[WSN Coverage](https://github.com/mriganka-77)** | Multi-Objective Sensor Optimization | C/C++, Python, WSN Protocols, Optimization | [Research](https://github.com/mriganka-77) |
-
----
-
-## 🛠️ Tech Stack
-
-```text
-3D & WebGL Engine       ✦ Three.js (r174), DRACOLoader, RGBELoader, GLTFLoader
-Motion & Choreography   ✦ GSAP 3.12, ScrollTrigger, SplitType
-Smooth Scrolling Engine ✦ Lenis Momentum Scroll v1.3
-Frontend Architecture   ✦ HTML5 Semantic, Modern CSS3, JavaScript (ESNext Modules)
-Design & Typography     ✦ ClashDisplay, Geist Mono, Lucide Icons
-Tooling & Bundler       ✦ Vite 6.x, Node.js, Puppeteer
-Deployment & Hosting    ✦ Vercel (Continuous Deployment)
-```
-
----
-
-## 🏆 Certifications
-
-- **Industrial Training on Data Science, AI & ML using Python** — *Ardent Computech Pvt. Ltd.*  
-  *(Accredited by NASSCOM IT-ITeS SSC, AICTE NEAT, MSME, ISO 9001:2015)*
-- **Oracle Certified Foundations Associate** — *Agentic AI & Autonomous Systems*
-- **NASSCOM Gen AI Tools** — *Gold Category Certification (70%+ Score)*
-- **AWS Academy Graduate** — *Generative AI Foundations & Machine Learning Foundations*
-
----
-
-## 💻 Getting Started
-
-### Prerequisites
-- Node.js (version 18.x or higher)
-- npm (version 9.x or higher)
-
-### Installation & Local Run
-```bash
-# 1. Clone repository
-git clone https://github.com/mriganka-77/PORTFOLIO.git
-cd PORTFOLIO
-
-# 2. Install dependencies
-npm install
-
-# 3. Start development server
-npm run dev
-
-# 4. Build for production
-npm run build
-
-# 5. Preview production bundle
-npm run preview
-```
-
----
-
-## 🚢 Deployment
-
-Deployed with automated CI/CD on **Vercel**:  
-👉 **[https://portfolio-xi-wine-10ul3mgtqv.vercel.app/](https://portfolio-xi-wine-10ul3mgtqv.vercel.app/)**
-
----
-
-## 📬 Connect
-
-<p align="center">
-  <a href="https://portfolio-xi-wine-10ul3mgtqv.vercel.app/"><img src="https://img.shields.io/badge/Live%20Portfolio-7928CA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mriganka-chakraborty"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mriganka-77"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:mrigankachk5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p>
+I'm a <strong>Computer Science & Engineering student at Adamas University</strong>
+with a strong passion for <strong>UI/UX design, frontend development and interactive digital experiences.</strong>
 </p>
 
----
+<p>
+I enjoy transforming ideas into products through the journey:
+</p>
 
 <div align="center">
 
-<sub>Crafted with 💜 using Three.js, WebGL, GSAP, and Vite • Distributed under the <a href="LICENSE">MIT License</a></sub>
+### 💡 Idea → 🎨 Design → 💻 Development → ✨ Interaction → 🚀 Product
 
 </div>
+
+<br>
+
+<p>
+My main focus is building interfaces that are:
+</p>
+
+<ul>
+<li>🎨 Visually appealing</li>
+<li>🧩 Simple and intuitive</li>
+<li>📱 Fully responsive</li>
+<li>⚡ Fast and performant</li>
+<li>✨ Interactive and animated</li>
+<li>♿ Accessible and user-friendly</li>
+</ul>
+
+<p>
+Alongside frontend development, I explore
+<strong>Full-Stack Development, Artificial Intelligence, Machine Learning,
+3D experiences and research-oriented projects.</strong>
+</p>
+
+---
+
+<!-- ===================== WHAT I DO ===================== -->
+
+<h2>🎯 What I Do</h2>
+
+<table>
+<tr>
+<th>Area</th>
+<th>What I Enjoy</th>
+</tr>
+
+<tr>
+<td>🎨 UI/UX</td>
+<td>Designing clean, modern and intuitive interfaces</td>
+</tr>
+
+<tr>
+<td>⚛️ Frontend</td>
+<td>Building responsive React applications</td>
+</tr>
+
+<tr>
+<td>✨ Motion</td>
+<td>Animations, transitions and micro-interactions</td>
+</tr>
+
+<tr>
+<td>🧊 3D Experiences</td>
+<td>Exploring immersive and interactive web experiences</td>
+</tr>
+
+<tr>
+<td>🧩 Design Systems</td>
+<td>Creating reusable and consistent UI components</td>
+</tr>
+
+<tr>
+<td>🔧 Full-Stack</td>
+<td>Connecting beautiful interfaces with powerful backends</td>
+</tr>
+
+<tr>
+<td>🤖 AI</td>
+<td>Exploring intelligent and AI-powered applications</td>
+</tr>
+
+<tr>
+<td>🔬 Research</td>
+<td>Working on optimization and networking problems</td>
+</tr>
+
+</table>
+
+---
+
+<!-- ===================== 3D PLAYGROUND ===================== -->
+
+<h2>🌌 My Digital Playground</h2>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:4C1D95&height=160&text=CREATE%20%7C%20DESIGN%20%7C%20BUILD%20%7C%20INNOVATE&fontSize=25&fontColor=ffffff&animation=twinkling"
+width="95%"
+>
+
+<br><br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%8E%A8+UI%2FUX+%2B+%F0%9F%92%BB+Code;%E2%9C%A8+Motion+%2B+%F0%9F%A7%8A+3D;%F0%9F%9A%80+Ideas+%2B+%F0%9F%A4%96+AI;%F0%9F%92%A1+Design+Thinking+%2B+%F0%9F%94%A7+Engineering"
+>
+
+</div>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2>🧊 My 3D Tech Stack</h2>
+
+<h3>🎨 Frontend & UI</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,figma&theme=dark">
+
+</div>
+
+<br>
+
+<h3>✨ UI / Interaction</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark">
+
+<br><br>
+
+<code>Framer Motion</code>
+<code>shadcn/ui</code>
+<code>Responsive Design</code>
+<code>Design Systems</code>
+<code>Micro-interactions</code>
+
+</div>
+
+<br>
+
+<h3>⚙️ Backend & Database</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,supabase&theme=dark">
+
+</div>
+
+<br>
+
+<h3>🤖 AI / Data Science</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,jupyter&theme=dark">
+
+</div>
+
+<br>
+
+<h3>🔧 Tools</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark">
+
+</div>
+
+---
+
+<!-- ===================== DESIGN FLOW ===================== -->
+
+<h2>🎨 My Design & Development Flow</h2>
+
+<div align="center">
+
+```text
+                    💡 IDEA
+                      │
+                      ▼
+                🎨 UI / UX DESIGN
+                      │
+                      ▼
+                 🧩 COMPONENTS
+                      │
+                      ▼
+              ⚛️ FRONTEND DEVELOPMENT
+                      │
+                      ▼
+              ✨ MOTION & INTERACTION
+                      │
+                      ▼
+                ⚙️ BACKEND / API
+                      │
+                      ▼
+                 🧪 TESTING
+                      │
+                      ▼
+                  🚀 DEPLOY
